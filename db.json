@@ -1,0 +1,7 @@
+{
+  "register": {
+    "data": true,
+    "errorMessage": "test",
+    "errors": {}
+  }
+}
