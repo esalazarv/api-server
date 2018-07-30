@@ -2,7 +2,7 @@
   "name": "api-server",
   "version": "0.0.1",
   "scripts": {
-    "serve": "json-server index.js --routes routes.json"
+    "serve": "json-server index.js --routes routes.json --middlewares ./errorMiddleware.js"
   },
   "dependencies": {
     "faker": "^4.1.0",

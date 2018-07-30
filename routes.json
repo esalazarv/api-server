@@ -1,3 +1,6 @@
 {
-  "/tssel/registerUserEP.jsp": "/register"
+  "/accounts/sselsession": "/sselSession",
+  "/tssel/registerUserEP.jsp\\?dataenc=:id": "/register",
+  "/tssel/registerUserEP.jsp": "/register_error_",
+  "/tssel/registerUserEP.jsp\\?dataenc=": "/register_error_"
 }
